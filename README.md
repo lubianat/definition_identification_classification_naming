@@ -77,11 +77,13 @@ Classes can receive either formal names, traditional names or no names at all (w
   
   In any case, I argue that researchers often set classes with loose boundaries, and in other cases (especially in ontology projects) focus on definition, i.e. refining the boundaries common concepts. 
   
- 5. Identification 
+ 5. Identification / calling 
 
 The identification is the process of looking at a cell an saying that it is an _instance of_ some class. The class is referred to by its name, ideally an unique identifiers.
 
 In taxonomy would be looking at an animal and saying "this is a dog", "this is a class", and so on. 
+
+One could say also a "cell type calling" similar to the "base calling" that is done when analizing observations of DNA bases. It was not always easy to say that the base in a sequence is A or T or C or G, and the process of doing this assignment required some kind of decision, i.e. a calling. 
 
 6. Annotation 
 
