@@ -13,7 +13,7 @@ When talking about cell types, at least four concepts are discernible, with diff
 6. Annotation: The recording of metadata associating a cell observation to the identifier for a class
 
 
-The four _words_ used above are not, however, used to express only one of those meanings. 
+The six _words_ used above are not, however, used to express only one of those meanings. 
 
 They are more often than not mixed in the literature. 
 
