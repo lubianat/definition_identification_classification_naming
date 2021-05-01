@@ -85,6 +85,8 @@ In taxonomy would be looking at an animal and saying "this is a dog", "this is a
 
 One could say also a "cell type calling" similar to the "base calling" that is done when analizing observations of DNA bases. It was not always easy to say that the base in a sequence is A or T or C or G, and the process of doing this assignment required some kind of decision, i.e. a calling. 
 
+Another possible wording for that process is calling it an attribution of cells to one (or more) type(s).
+
 6. Annotation 
 
 After cell observations are assigned to certain classes, it is important to record this relation in an organized manner. 
