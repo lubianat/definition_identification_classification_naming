@@ -110,7 +110,7 @@ The Cell Ontology organizes cells a poli-hierarchy, for example.
   
   The Cell Ontology, for example, strives to transform loose descriptions of cell classes into computable definitions. 
   
- 5. Determination
+ 6. Determination
 
 The determination (which may be called also _identification_, _assignment_ or _calling_)  is the process of looking at a cell and stating that it is an _instance of_ some class. The class is referred to by its name, ideally a unique identifiers.
 
@@ -123,7 +123,7 @@ A range of tools is available to help researchers determine classes of cells, so
 _Determination_ of the classes comes right before _annotation_, the process by which determinations are consolidated into metadata for archiving, processing or sharing. 
 
 
-6. Annotation 
+7. Annotation 
 
 After one determines which classes are assigned to each observations, one needs to record this relation in an organized manner. 
 
